@@ -1,0 +1,55 @@
+.thumbnail {
+    position: relative;
+    }
+    
+    
+
+    .caption {
+    position: absolute;
+    top: 40%;
+    left: 0;
+    width: 100%;
+    color: rgb(252, 249, 249);
+    }
+    .night{
+        font-weight: 800;
+        font-size: 50px;
+    }
+    .journey{
+        font-weight: 500;
+        font-size: 40px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .logo{
+        /* position: absolute; */
+        font-family:'Droid Sans Mono', serif;
+        /* line-height: 1; */
+         margin-bottom: 0;
+         text-align: left;
+         font-size: 40px;
+         margin-bottom: 50px;
+         color: #24638a;
+        }
+        
+          a.login{
+           
+            color:  #24638a;
+            font-size: 30px;
+           
+        }
+        .follow{
+            border: none;
+            background: none;
+            color: white;
+            font-weight: 500;
+            font-size: 20px;
+        }
+        .count{
+            border-radius: 10px;
+            color: black;
+        }
+        .navbar {
+           
+            position: fixed;
+            background-color: black;
+          }

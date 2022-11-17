@@ -1,0 +1,36 @@
+.left-section{
+    width: 75%;
+    height: 750px;
+    border: 2px solid black;
+    margin-top: 50px;
+    float: left;
+}
+.image{
+    width: 100rem;
+}
+.continue{
+  justify-items: center;
+}
+.right-section{
+    width: 23%;
+    height: 500px;
+    border: 2px solid black;
+    float: left;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.pro-photo{
+    width: 100px;
+    height: 75px;
+}
+
+.art1{
+    border: 2px solid black;
+}
+
+.comment{
+    background-color: rgb(197, 171, 221);
+    width: 500px;
+    height: 50px;
+    align-items: center;
+}

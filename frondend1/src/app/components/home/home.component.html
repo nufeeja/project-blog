@@ -1,0 +1,22 @@
+<div class="container">
+   
+    <ul *ngFor="let item of students">
+        <h1 class="text-center p-5">{{item.articlename}}</h1>
+        <small>Published on: {{item.published}}</small>
+        
+        <p class="pt-3">{{item.content}}</p>
+        <div class="comment offset-md-3"  ><h5>Comments:  {{item.comments}}</h5></div>
+    
+    </ul>
+     
+     <div class="row pt-2">
+        <div class="col-10 col-md-10 ">
+            <button class="btn-danger">Like</button>
+        </div>
+        <div class="col-2 col-md-2">
+            <button class="btn-danger">Share</button>
+        </div>
+     </div> 
+       
+    
+    
